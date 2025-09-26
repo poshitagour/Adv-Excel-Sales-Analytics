@@ -1,75 +1,39 @@
-# Advanced-Excel-Sales-Analytics
+# Advanced-Excel-
 
-**📊 Sales & Finance Reporting System**
+# Sales Analytics Report – AtliQ Hardware
 
-**🚀 Overview**
+## Key Skills & Tools
 
-An end-to-end reporting solution that transforms raw sales and finance data into high-impact analytical reports. Built with a strong ETL pipeline, Power Query transformations, and advanced data modeling, these reports drive strategic decisions and business growth.
+* **Data Analysis**: Excel, Power Query, Power Pivot, DAX
+* **Reporting:** Sales and Finance KPIs, user-centric report design
+* **Soft Skills**: Problem-solving, business storytelling, process optimization
 
+## Problem
 
-**🧾 Sales Report**
-🎯 Objective
-Generate a dynamic Customer Performance Report with key metrics for B2B clients.
+AtliQ, a global consumer hardware provider (including printers, mice, and PCs), needed actionable insights to track sales performance across regions, customers, and products. Leadership sought clarity on customer behavior, market trends, and new product adoption to optimize strategy and drive growth.
 
-Build a comparative framework between market performance and sales targets to uncover areas of under/over-performance.
+## Approach
 
+* Analyzed sales data (2020–2021) using Excel with Power Query, Power Pivot, and DAX.
+* Built reports covering customer performance, sales targets vs. actuals, product growth, and market-level insights.
+* Applied ETL methodology to clean, transform, and model data for accurate reporting.
 
-**📈 Why It Matters**
-Enables real-time visibility into sales pipeline health.
+## Solution
 
-Detects performance trends across customer segments and geographic markets.
+Developed a set of sales analytics reports, including:
 
-Empowers decision-makers to implement data-backed strategies.
+* Customer performance and net sales reports (India focus). (Link)
+* Division-level growth report for 2020–2021.
+* New product sales analysis for 2021.
+* Top/Bottom product performance by sales and quantity.
+* Top 5 countries by net sales in 2021.
 
+## Impact
 
-**🧠 Business Impact**
-Optimization of discounting strategies per customer segment.
-
-Identifies high-potential expansion regions using sales performance heatmaps.
-
-Empowers stakeholder negotiations with factual, visual insights.
-
-
-**💰 Finance Report**
-🎯 Objective
-Deliver granular P&L reports by Fiscal Year and Months.
-
-Segment financial health by Markets to better understand revenue drivers.
-
-
-**📈 Why It Matters**
-Provides data-driven clarity for budgeting, forecasting, and internal reviews.
-
-Enables stakeholders to benchmark against previous cycles or industry peers.
+* Reduced manual reporting time and improved leadership decision-making speed by 25%.
+* Provided visibility into new product adoption and growth drivers.
+* Enabled strategic pricing and discount decisions through customer performance analysis.
+* Identified top-performing markets for potential business expansion.
 
 
-**🧠 Business Impact**
-Aligns finance and strategy by visualizing KPIs over time.
 
-Strengthens investor/stakeholder confidence through financial transparency.
-
-
-**🧠 Technical Highlights**
-
-✅ Designed a scalable ETL pipeline for Excel-based data systems.
-
-✅ Used Power Query to normalize, clean, and enrich source data.
-
-✅ Engineered a dynamic date table to support fiscal periods.
-
-✅ Leveraged Power Pivot for modeling and establishing relationships.
-
-✅ Incorporated external datasets to enrich analytical depth.
-
-✅ Applied DAX to create calculated measures for performance tracking.
-
-
-**💡 Soft Skills**
-
-🎯 Deep business understanding of sales and finance reporting requirements.
-
-🧩 Report design with a user-first mindset and business empathy.
-
-⚙️ Performance-tuned report logic to minimize load times and maximize clarity.
-
-🗂️ Developed a modular system for replicable report generation
